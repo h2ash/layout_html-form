@@ -2,14 +2,10 @@ fieldset {
   margin-bottom: 20px;
 }
 
-label {
-  display: block;
+.field:not(:last-child) {
+  margin-bottom: 10px;
 }
 
-#cats_line label {
-  display: inline;
-}
-
-label + label {
-  margin: 10px;
+.years {
+  width: 76px;
 }
