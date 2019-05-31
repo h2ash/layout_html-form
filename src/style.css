@@ -5,7 +5,3 @@ fieldset {
 .field:not(:last-child) {
   margin-bottom: 10px;
 }
-
-.years {
-  width: 76px;
-}
